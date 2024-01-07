@@ -2,7 +2,9 @@
 
 day 1
 1. Git
-2. Visual Studio Code
-3. Hosting
-4. Boostrap
+   - Please read git commands
+3. Visual Studio Code
+   - Please read VS Code extension for html, css ...
+5. Hosting
+6. Boostrap
   
