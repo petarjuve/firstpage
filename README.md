@@ -7,6 +7,7 @@ day 1
    - Please read VS Code extension for html, css ...
 5. Hosting
 6. Bootsrap
-7. Linkedin
-8. [bymeacoffee](https://www.buymeacoffee.com/)https://www.buymeacoffee.com/
+7. https://tailwindcss.com/
+8. Linkedin
+9. [bymeacoffee](https://www.buymeacoffee.com/)https://www.buymeacoffee.com/
   
